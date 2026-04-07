@@ -34,6 +34,3 @@ src/
  ├── App.js
  ├── App.css
  └── index.js
-
-## Author
-Piyush Awate
